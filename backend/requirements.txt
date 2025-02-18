@@ -1,0 +1,11 @@
+fastapi[all]==0.109.2
+uvicorn==0.27.1
+python-multipart==0.0.9
+yfinance==0.2.36
+pandas==2.2.0
+matplotlib==3.8.2
+python-dotenv==1.0.1
+pydantic
+openai
+autogen-agentchat~=0.2
+pyautogen
